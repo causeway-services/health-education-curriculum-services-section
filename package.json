@@ -5,5 +5,9 @@
   "files": [
     "content/"
   ],
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/health-education-curriculum-services-section.git"
+  }
 }
