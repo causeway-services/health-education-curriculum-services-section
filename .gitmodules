@@ -1,0 +1,3 @@
+[submodule "services/public-health-education-services-section/services/health-education-curriculum-services-section/channels/pace-yourself"]
+	path = channels/pace-yourself
+	url = https://github.com/causeway-services/health-education-youtube-services-section.git
